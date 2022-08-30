@@ -1,0 +1,113 @@
+ .u-section-1 {
+  background-image: url("images/Ladang.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 516px;
+}
+
+.u-section-1 .u-text-1 {
+  margin: 183px auto 0;
+}
+
+.u-section-1 .u-text-2 {
+  margin: 14px auto 60px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 425px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 326px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 245px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 154px;
+  }
+}.u-section-2 .u-sheet-1 {
+  min-height: 492px;
+}
+
+.u-section-2 .u-text-1 {
+  margin: 42px auto 0;
+}
+
+.u-section-2 .u-image-1 {
+  width: 450px;
+  min-height: 258px;
+  background-image: url("images/Kekancingan.jpeg");
+  margin: 27px auto 0 79px;
+}
+
+.u-section-2 .u-container-layout-1 {
+  padding: 0;
+}
+
+.u-section-2 .u-image-2 {
+  width: 450px;
+  min-height: 258px;
+  background-image: url("images/TanahDesa.jpg");
+  margin: -258px 80px 0 auto;
+}
+
+.u-section-2 .u-container-layout-2 {
+  padding: 0;
+}
+
+.u-section-2 .u-btn-1 {
+  border-style: none;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  margin: 26px 79px 0 auto;
+  padding: 9px 116px 10px 115px;
+}
+
+.u-section-2 .u-btn-2 {
+  border-style: none;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  margin: -45px auto 42px 79px;
+  padding: 9px 106px 10px 105px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-image-2 {
+    margin-left: 79px;
+  }
+
+  .u-section-2 .u-btn-1 {
+    margin-right: 0;
+  }
+
+  .u-section-2 .u-btn-2 {
+    margin-left: 0;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-image-1 {
+    width: 340px;
+    margin-left: 0;
+  }
+
+  .u-section-2 .u-image-2 {
+    width: 340px;
+    margin-right: 0;
+    margin-left: auto;
+  }
+}
